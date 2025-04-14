@@ -1,0 +1,11 @@
+# Ignore Python environment folders
+.venv/
+# Ignore environment files
+.env
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore OS or editor files
+.DS_Store
+*.swp
